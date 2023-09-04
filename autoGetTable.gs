@@ -49,7 +49,8 @@ function main(){
     
     //tableの取得
     buffer.setFormula("=IMPORTHTML(" + url + "," + query + "," + "2" + ")"); //関数を設定して演算
-    buffer.getValue();　//演算結果の取り出し
+    buffer.getValue(); //演算結果の取り出し
+    Utilities.sleep(10000); //10s間delay
     sheet.getRange(200, 1, 250, 30).copyTo(sheet.getRange(1, 1), {contentsOnly:true}) //表をコピペ
     buffer.clear() //演算で利用したしたセルを初期状態に戻す
   }
