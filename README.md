@@ -12,8 +12,8 @@ If you wish to debug your code, follow these steps.
 <img src="https://github.com/Nanraka/autoGetTables/assets/64336110/606b8c7b-9f83-479f-ace9-b9922823ed4d" width="420px">
 
 ## Troubleshooting
-If #N/A appears in cell A1 after executing the code, make sure the file name is autoGetTables.
-<img src="https://github.com/Nanraka/autoGetTables/assets/64336110/3982322d-c3ae-4de1-a10c-b26ca10de8e9" width="147px">
+If #N/A appears in cell A1 after executing the code, make sure the file name is autoGetTables.  
+<img src="https://github.com/Nanraka/autoGetTables/assets/64336110/3982322d-c3ae-4de1-a10c-b26ca10de8e9" width="200px">
 
 ## References
 https://qiita.com/ik-fib/items/6c35640954c2b04a9287<br>
