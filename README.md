@@ -11,6 +11,7 @@ Scraping websites that publish stock prices and obtain the M.O. information.
    [](<img src="https://github.com/Nanraka/autoGetTables/assets/64336110/6bf36e94-881d-4770-bac8-b611f6728445" width="400px">)
    [](<img src="https://github.com/Nanraka/autoGetTables/assets/64336110/3fb60c61-9b71-4665-9d75-84e48f657d76" width="1000px">)
 
+## Debug
 If you wish to debug your code, follow these steps.
 1. Paste the .gs code into the Google Apps Script editor.
 2. After setting the function to be executed as the main function, press the "Execute" button.
