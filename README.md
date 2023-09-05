@@ -3,9 +3,14 @@ Scraping websites that publish stock prices and obtain the M.O. information.
 
 ## How to use
 1. Create a new spreadsheet file in Google Drive.
-2. 
+2. Select Extensions -> Google Apps Script
+   <img src="https://github.com/Nanraka/autoGetTables/assets/64336110/0ac5e9dc-ff4e-4bb8-b82b-f7c2470f91a2" width="290px">
+4. Paste the .gs code into the Google Apps Script editor.
+5. Save the file and rename it "autoGetTables".
+6. Select the trigger and make the following settings.
+   <img src="https://github.com/Nanraka/autoGetTables/assets/64336110/6bf36e94-881d-4770-bac8-b611f6728445" width="400px">
+   <img src="https://github.com/Nanraka/autoGetTables/assets/64336110/3fb60c61-9b71-4665-9d75-84e48f657d76" width="1000px">
 
-## Debug
 If you wish to debug your code, follow these steps.
 1. Paste the .gs code into the Google Apps Script editor.
 2. After setting the function to be executed as the main function, press the "Execute" button.
